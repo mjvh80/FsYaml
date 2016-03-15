@@ -12,7 +12,7 @@ open System.Runtime.InteropServices
 [<assembly: AssemblyFileVersion("2.0.2.0")>]
 
 // NOTE: nuget pack uses this as its nuget version
-[<assembly: AssemblyInformationalVersion("2.0.2-mjcustom")>]
+[<assembly: AssemblyInformationalVersion("2.0.2-mjcustom2")>]
 
 [<assembly: InternalsVisibleTo("FsYaml.Tests")>]
 ()
